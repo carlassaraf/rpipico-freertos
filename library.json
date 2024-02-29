@@ -1,0 +1,22 @@
+{
+    "name": "RPi Pico FreeRTOS",
+    "version": "1.0.0",
+    "description": "FreeRTOS para la Raspberry Pi Pico",
+    "keywords": "rp2040, Raspberry Pi Pico, RTOS, FreeRTOS",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/carlassaraf/rpipico-freertos.git"
+    },
+    "authors":
+    [
+        {
+            "name": "Fabrizio Carlassara",
+            "email": "fabrizio.carlassara@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "homepage": "",
+    "frameworks": ["baremetal"],
+    "platforms": ["WizIO-pico"]
+}
